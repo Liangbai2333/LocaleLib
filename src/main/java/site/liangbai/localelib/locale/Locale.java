@@ -47,4 +47,8 @@ public final class Locale {
 
         return safeAsString(node, args);
     }
+
+    public boolean hasNode(String node) {
+        return locale.contains(node);
+    }
 }
