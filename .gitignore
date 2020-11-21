@@ -2,5 +2,4 @@
 build/
 .idea/
 /idea/
-/gradle/
 .gradle/
